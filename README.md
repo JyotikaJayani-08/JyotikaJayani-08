@@ -1,10 +1,10 @@
 
 # 👋 Hi, I'm Jyotika Jayani
 
-🎓 Third-year Computer Science student at KIIT University  
-🚀 Passionate about AI, ML, and Space-Tech Innovation  
+🎓 Computer Science student at KIIT University  
+🚀 Passionate about AI, ML, and Tech Innovation  
 👩‍🔬 Intern @ ISRO NESAC (ML for Earthquake Prediction)  
-🏆 Hackathon Finalist | IoT & Healthcare Developer | Research Enthusiast  
+🏆 Hackathon Finalist | Research Enthusiast  
 
 ---
 
