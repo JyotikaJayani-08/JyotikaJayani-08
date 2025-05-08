@@ -46,9 +46,13 @@
 ## ⚙️ Tech Stack
 
 **Languages:** Python, C, C++, SQL  
+
 **Frameworks:** Flask, Streamlit, TensorFlow, PyTorch, Langchain , Django 
+
 **Tools:** Docker, Power BI, Git, Firebase, Jupyter  
+
 **Cloud & DevOps:** AWS (basic), Ubuntu, Linux  
+
 **Skills:** Machine Learning, NLP, Time Series Forecasting, Deep Learning,AI, GenAI, Agentic AI
 
 ---
